@@ -6,10 +6,68 @@
         "author": "lzy98276",
         "url": "https://github.com/SECTL/SecRandom",
         "icon": "https://github.com/SECTL/SecRandom/blob/main/resources/SecRandom.png",
-        "banner": "https://github.com/SECTL/SecRandom/blob/main/resources/banner.png",
+        "banner": "",
         "branch": "main",
-        "category": "课表与看板类软件",
+        "category": "其他",
         "platform": ["windows"],
-        "download": ["https://github.com/SECTL/SecRandom/releases/download/【tag】"]
+        "download": ["https://github.com/SECTL/SecRandom/releases/download/【tag】"],
+        "isweb": false
+    },
+    "ClassIsland": {
+        "name": "ClassIsland",
+        "description": "一款适用于班级多媒体屏幕的课表信息显示工具，可以在 Windows 屏幕上显示各种信息。本应用的名字灵感源于 iOS 灵动岛（Dynamic Island）功能。可显示当天的课表、当前进行课程的信息，在上下课等重要时间点发出提醒，自选搭配音效、强调特效和语音增强提醒。",
+        "version_format": "0.0.0.0",
+        "author": "HelloWRC",
+        "url": "https://github.com/ClassIsland/ClassIsland",
+        "icon": "https://github.com/ClassIsland/ClassIsland/blob/master/ClassIsland/Assets/AppLogo_AppLogo.svg",
+        "banner": "https://github.com/user-attachments/assets/a815dd7d-8343-4da5-aee4-3f754aa297e4)",
+        "branch": "master",
+        "category": "课表和看板类", 
+        "platform": ["windows", "linux"],
+        "download": ["https://github.com/SECTL/SecRandom/releases/download/【tag】"],
+        "isweb": false
+
+    },
+    "ZongziTEK-Blackboard-Sticker": {
+        "name": "ZongziTEK 黑板贴",
+        "description": "一个简洁、美观、公平、易用的班级点名软件，专为教育场景设计，集成动态权重算法与防算改机制，实现一键多模式 随机抽取，让课堂点名更高效、更透明。",
+        "version_format": "v0.0.0.0",
+        "author": "ZongziTEK",
+        "url": "https://github.com/STBBRD/ZongziTEK-Blackboard-Sticker",
+        "icon": "https://raw.githubusercontent.com/STBBRD/ZongziTEK-Blackboard-Sticker/master/ZongziTEK_Blackboard_Sticker/%E9%BB%91%E6%9D%BF%E8%B4%B4.png",
+        "banner": "",
+        "branch": "master",
+        "category": "课表和看板类",
+        "platform": ["windows"],
+        "download": ["https://github.com/STBBRD/ZongziTEK-Blackboard-Sticker/releases/download/【tag】"],
+        "isweb": false
+    },
+    "Class-Widgets": {
+        "name": "Class Widgets",
+        "description": "一款能够显示实时教学进度的桌面组件应用。其提供了美观的桌面组件和高度的自定义选项，助力于思考和探索未来中科技与教学的结合。",
+        "version_format": "v0.0.0.0",
+        "author": "RinLit",
+        "url": "https://github.com/Class-Widgets/Class-Widgets",
+        "icon": "https://raw.githubusercontent.com/Class-Widgets/Class-Widgets/main/img/Logo.png",
+        "banner": "https://github.com/Class-Widgets/Class-Widgets/blob/main/img/Banner.png",
+        "branch": "main",
+        "category": "课表与看板类", 
+        "platform": ["windows", "linux", "macos"],
+        "download": ["https://github.com/Class-Widgets/Class-Widgets/releases/download/【tag】"],
+        "isweb": false
+    },
+    "ExamShowboard-Legacy": {
+        "name": "考试看板",
+        "description": "一款显示当前时间与考试详细信息的看板类软件。旨在提供一个简单明了的 UI 界面用于展示考试信息：可以展示考试名称、当前时间、当前科目名称、开始时间、结束时间、考试状态等信息。",
+        "version_format": "v0.0.0",
+        "author": "MKStoler",
+        "url": "https://github.com/ExamAware/ExamShowboard-Legacy",
+        "icon": "https://github.com/ExamAware/ExamShowboard-Legacy/blob/master/resources/icon.png",
+        "banner": "",
+        "branch": "master",
+        "category": "课表与看板类", 
+        "platform": ["windows","macos"],
+        "download": ["https://github.com/ExamAware/ExamShowboard-Legacy/releases/download/【tag】"],
+        "isweb": false
     }
 }
