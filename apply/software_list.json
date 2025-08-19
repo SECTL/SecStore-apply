@@ -1,0 +1,14 @@
+{
+    "SecRandom": {
+        "name": "SecRandom",
+        "description": "一个简洁、美观、公平、易用的班级点名软件，专为教育场景设计，集成动态权重算法与防算改机制，实现一键多模式 随机抽取，让课堂点名更高效、更透明。",
+        "version_format": "v0.0.0.0",
+        "author": "lzy98276",
+        "url": "https://github.com/SECTL/SecRandom",
+        "icon": "https://github.com/SECTL/SecRandom/blob/main/resources/SecRandom.png",
+        "branch": "main",
+        "category": "课表与看板类软件",
+        "platform": ["windows"],
+        "download": ["https://github.com/SECTL/SecRandom/releases/download/【tag】"]
+    }
+}
