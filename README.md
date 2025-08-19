@@ -35,6 +35,7 @@
         "author": "软件作者的 SecStore 名称",
         "url": "您的 GitHub 软件仓库链接 (例如：https://github.com/SECTL/SecRandom)",
         "icon": "您的 软件图标链接(例如:https://github.com/SECTL/SecRandom/blob/main/resources/SecRandom.png)",
+        "banner": "您的 软件宣传图片链接(例如:https://github.com/SECTL/SecRandom/blob/main/resources/banner.png)",
         "branch": "软件仓库的分支（如：main）",
         "category": "软件分类（如：屏幕批注与白板软件、课表与看板类软件、辅助类软件与实用工具等）", 
         "platform": "支持的平台列表（如：[windows, linux, macos]）",

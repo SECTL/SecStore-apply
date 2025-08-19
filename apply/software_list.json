@@ -6,6 +6,7 @@
         "author": "lzy98276",
         "url": "https://github.com/SECTL/SecRandom",
         "icon": "https://github.com/SECTL/SecRandom/blob/main/resources/SecRandom.png",
+        "banner": "https://github.com/SECTL/SecRandom/blob/main/resources/banner.png",
         "branch": "main",
         "category": "课表与看板类软件",
         "platform": ["windows"],
