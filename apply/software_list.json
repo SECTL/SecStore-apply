@@ -83,17 +83,17 @@
         "license_url": "https://www.gnu.org/licenses/gpl-3.0.html",
         "recommend": "🥈(2)"
     },
-    "ExamShowboard-Legacy": {
-        "name": "考试看板",
+    "DSZ ExamAware": {
+        "name": "ExamAware",
         "description": "一款显示当前时间与考试详细信息的看板类软件。旨在提供一个简单明了的 UI 界面用于展示考试信息：可以展示考试名称、当前时间、当前科目名称、开始时间、结束时间、考试状态等信息。",
         "version_format": "v0.0.0",
-        "author": "Hello8693,MKStoler,HelloFHZ",
-        "url": "https://github.com/ExamAware/ExamShowboard-Legacy",
+        "author": "DSZ Software",
+        "url": "https://github.com/ExamAware",
         "icon": "https://github.com/ExamAware/ExamShowboard-Legacy/blob/master/resources/icon.png",
         "banner": "",
         "branch": "master",
         "category": "课表与看板类软件", 
-        "platform": ["windows","macos"],
+        "platform": ["windows","macos","linux"],
         "download": ["https://github.com/ExamAware/ExamShowboard-Legacy/releases/download/【tag】"],
         "isweb": false,
         "note": "",
