@@ -83,7 +83,7 @@
         "name": "考试看板",
         "description": "一款显示当前时间与考试详细信息的看板类软件。旨在提供一个简单明了的 UI 界面用于展示考试信息：可以展示考试名称、当前时间、当前科目名称、开始时间、结束时间、考试状态等信息。",
         "version_format": "v0.0.0",
-        "author": "MKStoler",
+        "author": "Hello8693,MKStoler,HelloFHZ",
         "url": "https://github.com/ExamAware/ExamShowboard-Legacy",
         "icon": "https://github.com/ExamAware/ExamShowboard-Legacy/blob/master/resources/icon.png",
         "banner": "",
@@ -95,7 +95,7 @@
         "note": "",
         "qq": "901670561",
         "qq_name": "🤪大傻子考试知道会所",
-        "official_website": "https://docs.examaware.tech/",
+        "official_website": "https://www.examaware.cn/",
         "license": "GPL-3.0",
         "license_url": "https://www.gnu.org/licenses/gpl-3.0.html"
     }
