@@ -103,5 +103,25 @@
         "license": "GPL-3.0",
         "license_url": "https://www.gnu.org/licenses/gpl-3.0.html",
         "recommend": ""
+    },"NamePicker": {
+        "name": "NamePicker",
+        "description": "一款简洁，易用，高效的点名器",
+        "version_format": "v0.0.0d0rel/dev",
+        "author": "灵魂歌手er",
+        "url": "https://github.com/NamePickerOrg/NamePicker",
+        "icon": "https://github.com/NamePickerOrg/NamePicker/blob/master/assets/NamePicker.png",
+        "banner": "https://github.com/NamePickerOrg/NamePicker/blob/master/assets/banner.png",
+        "branch": "master",
+        "category": "辅助类软件与实用工具", 
+        "platform": ["windows"],
+        "download": ["https://github.com/NamePickerOrg/NamePicker/releases/download/【tag】"],
+        "isweb": false,
+        "note": "",
+        "qq": "2153027375",
+        "qq_name": "NamePicker",
+        "official_website": "https://namepicker-docs.netlify.app/",
+        "license": "GPL-3.0",
+        "license_url": "https://www.gnu.org/licenses/gpl-3.0.html",
+        "recommend": ""
     }
 }
