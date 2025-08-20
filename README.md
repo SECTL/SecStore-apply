@@ -38,7 +38,8 @@
         "qq_name": "软件作者的 QQ 群名称（如：SecStore 软件群）",
         "official_website": "软件的官方网站链接（如：https://example.com）",
         "license": "软件的开源协议（如：GPL-3.0）",
-        "license_url": "软件的开源协议链接（如：https://www.gnu.org/licenses/gpl-3.0.html）"
+        "license_url": "软件的开源协议链接（如：https://www.gnu.org/licenses/gpl-3.0.html）",
+        "recommend": "推荐状态（🥇(1)最推荐、必装软件；🥈(2)推荐尝试、功能完善；🌟(3)前景远大、发展潜力；🔴(4)最近新收录）"
     }
 }
 ```

@@ -17,7 +17,8 @@
         "qq_name": "SECTL·SecRandom·SecStore",
         "official_website": "https://secrandom.netlify.app/",
         "license": "GPL-3.0",
-        "license_url": "https://www.gnu.org/licenses/gpl-3.0.html"
+        "license_url": "https://www.gnu.org/licenses/gpl-3.0.html",
+        "recommend": ""
     },
     "ClassIsland": {
         "name": "ClassIsland",
@@ -37,7 +38,8 @@
         "qq_name": "ClassIsland",
         "official_website": "https://classisland.tech/",
         "license": "GPL-3.0",
-        "license_url": "https://www.gnu.org/licenses/gpl-3.0.html"
+        "license_url": "https://www.gnu.org/licenses/gpl-3.0.html",
+        "recommend": "🥇(1)"
     },
     "ZongziTEK-Blackboard-Sticker": {
         "name": "ZongziTEK 黑板贴",
@@ -57,7 +59,8 @@
         "qq_name": "",
         "official_website": "https://zztek.top/",
         "license": "GPL-3.0",
-        "license_url": "https://www.gnu.org/licenses/gpl-3.0.html"
+        "license_url": "https://www.gnu.org/licenses/gpl-3.0.html",
+        "recommend": "🥇(1)"
     },
     "Class-Widgets": {
         "name": "Class Widgets",
@@ -77,7 +80,8 @@
         "qq_name": "Class Widgets Community 2",
         "official_website": "https://classwidgets.rinlit.cn/",
         "license": "GPL-3.0",
-        "license_url": "https://www.gnu.org/licenses/gpl-3.0.html"
+        "license_url": "https://www.gnu.org/licenses/gpl-3.0.html",
+        "recommend": "🥈(2)"
     },
     "ExamShowboard-Legacy": {
         "name": "考试看板",
@@ -97,6 +101,7 @@
         "qq_name": "🤪大傻子考试知道会所",
         "official_website": "https://docs.examaware.tech/",
         "license": "GPL-3.0",
-        "license_url": "https://www.gnu.org/licenses/gpl-3.0.html"
+        "license_url": "https://www.gnu.org/licenses/gpl-3.0.html",
+        "recommend": ""
     }
 }
