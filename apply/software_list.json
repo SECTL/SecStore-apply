@@ -8,10 +8,16 @@
         "icon": "https://github.com/SECTL/SecRandom/blob/main/resources/SecRandom.png",
         "banner": "",
         "branch": "main",
-        "category": "其他",
+        "category": "辅助类软件与实用工具",
         "platform": ["windows"],
         "download": ["https://github.com/SECTL/SecRandom/releases/download/【tag】"],
-        "isweb": false
+        "isweb": false,
+        "note": "",
+        "qq": "https://qm.qq.com/q/Dzybq3Lczu",
+        "qq_name": "SECTL·SecRandom·SecStore",
+        "official_website": "https://secrandom.netlify.app/",
+        "license": "GPL-3.0",
+        "license_url": "https://www.gnu.org/licenses/gpl-3.0.html"
     },
     "ClassIsland": {
         "name": "ClassIsland",
@@ -25,8 +31,13 @@
         "category": "课表和看板类", 
         "platform": ["windows", "linux"],
         "download": ["https://github.com/SECTL/SecRandom/releases/download/【tag】"],
-        "isweb": false
-
+        "isweb": false,
+        "note": "",
+        "qq": "https://qm.qq.com/q/jCQSTLh0C6",
+        "qq_name": "ClassIsland",
+        "official_website": "https://classisland.tech/",
+        "license": "GPL-3.0",
+        "license_url": "https://www.gnu.org/licenses/gpl-3.0.html"
     },
     "ZongziTEK-Blackboard-Sticker": {
         "name": "ZongziTEK 黑板贴",
@@ -40,7 +51,13 @@
         "category": "课表和看板类",
         "platform": ["windows"],
         "download": ["https://github.com/STBBRD/ZongziTEK-Blackboard-Sticker/releases/download/【tag】"],
-        "isweb": false
+        "isweb": false,
+        "note": "",
+        "qq": "",
+        "qq_name": "",
+        "official_website": "https://zztek.top/",
+        "license": "GPL-3.0",
+        "license_url": "https://www.gnu.org/licenses/gpl-3.0.html"
     },
     "Class-Widgets": {
         "name": "Class Widgets",
@@ -54,7 +71,13 @@
         "category": "课表与看板类", 
         "platform": ["windows", "linux", "macos"],
         "download": ["https://github.com/Class-Widgets/Class-Widgets/releases/download/【tag】"],
-        "isweb": false
+        "isweb": false,
+        "note": "",
+        "qq": "https://qm.qq.com/q/y1uCLbsE6Y",
+        "qq_name": "Class Widgets Community 2",
+        "official_website": "https://classwidgets.rinlit.cn/",
+        "license": "GPL-3.0",
+        "license_url": "https://www.gnu.org/licenses/gpl-3.0.html"
     },
     "ExamShowboard-Legacy": {
         "name": "考试看板",
@@ -68,6 +91,12 @@
         "category": "课表与看板类", 
         "platform": ["windows","macos"],
         "download": ["https://github.com/ExamAware/ExamShowboard-Legacy/releases/download/【tag】"],
-        "isweb": false
+        "isweb": false,
+        "note": "",
+        "qq": "https://qm.qq.com/q/cJ0gv1QTZK",
+        "qq_name": "🤪大傻子考试知道会所",
+        "official_website": "https://docs.examaware.tech/",
+        "license": "GPL-3.0",
+        "license_url": "https://www.gnu.org/licenses/gpl-3.0.html"
     }
 }
