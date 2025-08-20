@@ -43,7 +43,7 @@
     },
     "ZongziTEK-Blackboard-Sticker": {
         "name": "ZongziTEK 黑板贴",
-        "description": "一个简洁、美观、公平、易用的班级点名软件，专为教育场景设计，集成动态权重算法与防算改机制，实现一键多模式 随机抽取，让课堂点名更高效、更透明。",
+        "description": "用于白板一体机的桌面小部件，享受抬手即用的小黑板、高效的信息展示、便捷的课程管理和多项实用功能，满足班级的各种需求。",
         "version_format": "v0.0.0.0",
         "author": "ZongziTEK",
         "url": "https://github.com/STBBRD/ZongziTEK-Blackboard-Sticker",
@@ -102,7 +102,7 @@
         "official_website": "https://www.examaware.cn/",
         "license": "GPL-3.0",
         "license_url": "https://www.gnu.org/licenses/gpl-3.0.html",
-        "recommend": ""
+        "recommend": "🥈(2)"
     },
     "NamePicker": {
         "name": "NamePicker",
@@ -138,7 +138,7 @@
         "platform": ["windows"],
         "download": ["https://github.com/InkCanvas/Ink-Canvas-Artistry/releases/download/【tag】"],
         "isweb": false,
-        "note": "此应用已停止更新",
+        "note": "该项目已经停更",
         "qq": "617707731",
         "qq_name": "ICA",
         "official_website": "",
@@ -148,7 +148,7 @@
     },
     "InkCanvas": {
         "name": "Ink Canvas",
-        "description": "轻量级画板软件，基于 WPF/C#，针对希沃一体机优化，启动快、资源占用小。",
+        "description": "一款轻量级画板软件，基于 WPF/C#。针对希沃一体机进行了特别优化，与希沃白板5相比，启动速度大幅度提升，系统资源占用更小，使用体验更佳。",
         "version_format": "",
         "author": "WXRIW",
         "url": "https://github.com/WXRIW/Ink-Canvas",
@@ -169,7 +169,7 @@
     },
     "InkCanvasPlus": {
         "name": "Ink Canvas Plus",
-        "description": "由 Clover Yan 维护的 Ink Canvas 复刻优化版，界面简洁，适合教学和笔记。",
+        "description": "一款复刻自 WXRIW/Ink Canvas 的画板应用，旨在优化各方面的使用体验，并尽可能保留原版 Ink Canvas 的操作体验，易于上手。",
         "version_format": "",
         "author": "Clover Yan",
         "url": "https://github.com/clover-yan/Ink-Canvas-Plus",
@@ -190,7 +190,7 @@
     },
     "Inkeys": {
         "name": "智绘教 Inkeys",
-        "description": "高效批注和丰富功能的 Windows 屏幕批注工具，适合教学和演示。",
+        "description": "Windows 屏幕批注工具，拥有高效批注和丰富功能，让屏幕演示变得简单，让教学授课变得高效，适用于触摸设备和 PC 端。",
         "version_format": "",
         "author": "Alan-CRL",
         "url": "https://github.com/Alan-CRL/Inkeys",
@@ -211,7 +211,7 @@
     },
     "ICC-CE": {
         "name": "ICC-CE",
-        "description": "InkCanvasForClass 社区版，流畅绘图体验，功能丰富，适合教学等多场景。",
+        "description": "InkCanvasForClass 的社区版本，支持 Windows 平台，具有流畅的绘图体验和丰富的功能。",
         "version_format": "",
         "author": "CJKmkp",
         "url": "https://github.com/InkCanvasForClass/community",
@@ -228,11 +228,11 @@
         "official_website": "https://icc-ce.inkeys.top",
         "license": "GPL-3.0",
         "license_url": "https://www.gnu.org/licenses/gpl-3.0.html",
-        "recommend": ""
+        "recommend": "🌟(3)"
     },
     "SketchNow": {
         "name": "SketchNow",
-        "description": "现代 Windows 绘图工具，支持压感输入和多语言，界面优雅。",
+        "description": "一款现代 Windows 绘图工具。它采用 Material Design 设计，界面优雅，支持压感输入。",
         "version_format": "",
         "author": "realybin",
         "url": "https://github.com/SketchNow/SketchNow.WPF",
@@ -249,11 +249,11 @@
         "official_website": "",
         "license": "MIT",
         "license_url": "https://opensource.org/licenses/MIT",
-        "recommend": ""
+        "recommend": "🌟(3)"
     },
     "ppInk": {
         "name": "ppInk",
-        "description": "功能强大的开源桌面批注软件，支持多种输入设备，适合演示和教学。",
+        "description": "功能强大的开源桌面批注软件，支持多种输入设备，其设计秉承了简洁的理念，适合演示使用。",
         "version_format": "",
         "author": "pubpub-zz",
         "url": "https://github.com/pubpub-zz/ppInk",
@@ -274,7 +274,7 @@
     },
     "LemonxNote": {
         "name": "LemonxNote 柠檬白板",
-        "description": "C++/Qt 开发的白板软件，内存占用小，支持多页码等基础功能。",
+        "description": "一个用 C++ 和 Qt 开发的白板软件。目前支持画布批注、擦除、移动画布等基础功能。内存占用极小。",
         "version_format": "",
         "author": "linchh11117",
         "url": "https://github.com/lh11117/LemonxNote",
@@ -295,15 +295,15 @@
     },
     "InkCanvasBetter": {
         "name": "Ink Canvas Better",
-        "description": "基于 InkCanvas/Ink-Canvas-Artistry 优化的画板应用，界面简洁，体验流畅。",
-        "version_format": "",
+        "description": "一款基于 Ink Canvas Artistry 开发的 Windows 画板应用，在原版 Ink Canvas 的基础上进行了优化和改进，专注于提供更流畅的绘图体验和更简洁的界面。",
+        "version_format": "v0.0.0.0",
         "author": "BaiYang2238",
         "url": "https://github.com/BaiYang2238/Ink-Canvas-Better",
         "icon": "https://github.com/BaiYang2238/Ink-Canvas-Better/raw/master/Images/Ink%20Canvas%20Better.png",
         "banner": "",
         "branch": "master",
         "category": "屏幕批注与白板软件",
-        "platform": [],
+        "platform": ["windows"],
         "download": ["https://github.com/BaiYang2238/Ink-Canvas-Better/releases/download/【tag】"],
         "isweb": false,
         "note": "",
@@ -312,27 +312,27 @@
         "official_website": "",
         "license": "GPL-3.0",
         "license_url": "https://www.gnu.org/licenses/gpl-3.0.html",
-        "recommend": ""
+        "recommend": "🔴(4)"
     },
     "ShowWrite": {
         "name": "ShowWrite视频展台",
         "description": "一款为视频展台、直播教学等场景设计的软件，支持视频展台功能（如文档展台、实物展台等）、屏幕批注、画面录制等功能，能够实现希沃展台与希沃系统的无缝对接，提升教学互动体验。",
-        "version_format": "v0.0.0",
+        "version_format": "ShowWrite 0.0.0",
         "author": "wwcrdrvf6u",
         "url": "https://github.com/wwcrdrvf6u/ShowWrite",
-        "icon": "https://github.com/BaiYang2238/Ink-Canvas-Better/raw/master/Images/Ink%20Canvas%20Better.png",
+        "icon": "https://github.com/wwcrdrvf6u/ShowWrite/raw/main/logo-SW.png",
         "banner": "",
-        "branch": "master",
+        "branch": "main",
         "category": "屏幕批注与白板软件",
-        "platform": [],
-        "download": ["https://github.com/BaiYang2238/Ink-Canvas-Better/releases/download/【tag】"],
+        "platform": ["windows"],
+        "download": ["https://github.com/wwcrdrvf6u/ShowWrite/releases/download/【tag】"],
         "isweb": false,
         "note": "",
-        "qq": "",
-        "qq_name": "",
+        "qq": "1051061830",
+        "qq_name": "Show Write（汐沃视频展台）",
         "official_website": "",
         "license": "GPL-3.0",
         "license_url": "https://www.gnu.org/licenses/gpl-3.0.html",
-        "recommend": ""
+        "recommend": "🔴(4)"
     }
 }
